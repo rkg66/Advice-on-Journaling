@@ -1,2 +1,3 @@
-# Mental-Health-Articles
-- [Insights of multiple mental health experts- Art of Journaling](https://jyotirgamya.org/article/art-of-journaling/)
+# Journaling
+- [Art of Journaling](https://jyotirgamya.org/article/art-of-journaling/)
+- [How to Write your Daily Journal?](https://jyotirgamya.org/article/art-of-journaling/)
